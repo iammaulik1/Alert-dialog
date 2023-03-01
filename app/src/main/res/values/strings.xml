@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">8.AlertDialog</string>
+    <string name="button">Click Button</string>
+    <string name="dialogTitle">Feels</string>
+    <string name="dialogMessage">How was your day?</string>
+</resources>
